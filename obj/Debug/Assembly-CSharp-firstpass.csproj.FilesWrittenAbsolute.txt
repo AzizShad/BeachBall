@@ -1,0 +1,17 @@
+/Users/shadaziz/Desktop/2D Game/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/shadaziz/Desktop/2D Game/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/shadaziz/Desktop/2D Game/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/shadaziz/Desktop/2D Game/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/shadaziz/Desktop/2D Game/Temp/bin/Debug/UnityEngine.dll
+/Users/shadaziz/Desktop/2D Game/Temp/bin/Debug/UnityEditor.dll
+/Users/shadaziz/Desktop/2D Game/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/shadaziz/Desktop/2D Game/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/shadaziz/Desktop/2D Game/Temp/bin/Debug/Mono.Cecil.dll
+/Users/shadaziz/Desktop/2D Game/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/shadaziz/Desktop/2D Game/Temp/bin/Debug/Unity.DataContract.dll
+/Users/shadaziz/Desktop/2D Game/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/shadaziz/Desktop/2D Game/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/shadaziz/Desktop/2D Game/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/shadaziz/Desktop/2D Game/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/shadaziz/Desktop/2D Game/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/shadaziz/Desktop/2D Game/Temp/bin/Debug/Mono.Cecil.Mdb.dll
